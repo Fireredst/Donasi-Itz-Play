@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Video Saya
-https://fireredst.github.io/Donasi-Itz-Play/video_20260709_233009_edit.mp4
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.500000,
+result0.ts
+#EXT-X-ENDLIST
